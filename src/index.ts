@@ -35,6 +35,6 @@ export default {
 				},
 			});
 		}
-		return new Response('Added favicon!');
+		return new Response('Added favicon! and added github actions for the first time!');
 	},
 };
